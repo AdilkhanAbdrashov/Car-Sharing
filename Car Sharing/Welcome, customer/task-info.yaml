@@ -1,0 +1,101 @@
+type: edu
+custom_name: "Welcome, customer!"
+files:
+  - name: test/CarSharingTest.java
+    visible: false
+    learner_created: false
+  - name: test/DatabaseUtil.java
+    visible: false
+    learner_created: false
+  - name: src/carsharing/businesslayer/Customer.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/businesslayer/Company.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/businesslayer/Car.java
+    visible: true
+    learner_created: true
+  - name: src/businesslayer/Customer.java
+    visible: true
+    learner_created: true
+  - name: src/businesslayer/Company.java
+    visible: true
+    learner_created: true
+  - name: src/businesslayer/Car.java
+    visible: true
+    learner_created: true
+  - name: src/controller/Menu.java
+    visible: true
+    learner_created: true
+  - name: src/controller/AppState.java
+    visible: true
+    learner_created: true
+  - name: src/controller/console/ConsoleMenu.java
+    visible: true
+    learner_created: true
+  - name: src/controller/console/ConsoleController.java
+    visible: true
+    learner_created: true
+  - name: src/controller/console/ConsoleMainMenu.java
+    visible: true
+    learner_created: true
+  - name: src/controller/console/SysoutScannerContainer.java
+    visible: true
+    learner_created: true
+  - name: src/controller/console/ConsoleUtils.java
+    visible: true
+    learner_created: true
+  - name: src/controller/console/customer/ConsoleCustomerSelectionMenu.java
+    visible: true
+    learner_created: true
+  - name: src/controller/console/customer/ConsoleRentCarMenu.java
+    visible: true
+    learner_created: true
+  - name: src/controller/console/customer/ConsoleCustomerMenu.java
+    visible: true
+    learner_created: true
+  - name: src/controller/console/manager/ConsoleCompanyMenu.java
+    visible: true
+    learner_created: true
+  - name: src/controller/console/manager/ConsoleCompanySelectionMenu.java
+    visible: true
+    learner_created: true
+  - name: src/controller/console/manager/ConsoleManagerMenu.java
+    visible: true
+    learner_created: true
+  - name: src/db/carsharing.mv.db
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: src/persistance/JdbcConnectionContainer.java
+    visible: true
+    learner_created: true
+  - name: src/persistance/repository/CarRepository.java
+    visible: true
+    learner_created: true
+  - name: src/persistance/repository/CompanyRepository.java
+    visible: true
+    learner_created: true
+  - name: src/persistance/repository/CustomerRepository.java
+    visible: true
+    learner_created: true
+  - name: src/persistance/repository/JdbcCompanyRepository.java
+    visible: true
+    learner_created: true
+  - name: src/persistance/repository/JdbcCarRepository.java
+    visible: true
+    learner_created: true
+  - name: src/persistance/repository/JdbcCustomerRepository.java
+    visible: true
+    learner_created: true
+  - name: src/Main.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/11504#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Sun, 13 Oct 2024 16:49:44 UTC"
+record: -1
